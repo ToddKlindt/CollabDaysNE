@@ -1,0 +1,18 @@
+# Connect to M365 tenant with pnp.powershell
+
+# List all the lists and libraries in the site
+
+# List all the lists and libraries in the site that aren't hidden or system
+
+# Set them all to a variable called $AllLists
+
+# If there's not a list called "Todd's Stuff" then create it
+
+# get all the files in the Shared Documents library
+
+# loop through all the files and write their names to the console
+
+# Loop through the files and show the file name and how many versions there are
+
+# Loop through the files and show the file name and how many versions there are and output as objects
+

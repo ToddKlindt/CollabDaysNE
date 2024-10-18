@@ -1,0 +1,18 @@
+Let's write a PowerShell function called Add-ClientCredential. It has 4 parameters, tenantname, username, password, and testcredential. It should use Add-PnPStoredCredential to store credentials for https://tenant.sharepoint.com, https://tenant.sharepoint.com/, and https://tenant-admin.sharepoint.com.
+
+<one missing?>
+
+Looks good. Let's have it prompt the user if they don't enter tenantname, username, or password. And let's have the password take a securestring instead of a string
+
+Looks good. Add a check to make sure the pnp.powershell in installed. If not, tell the user and give them the line to install it.
+
+If the script finds and existing credential, show the username for that credential
+
+Looks great! Please add a description and provide a few examples.
+
+Add support if the user enters contoso.sharepoint.com, contoso.onmicrosoft.com, https, or http versions of them
+
+This all works great. Is there anything else I should add, or any other errors I should trap for?
+
+Good ideas. Add validation for tenant name format and error handling for pnp cmdlets
+
