@@ -116,3 +116,6 @@ Add one absurdly bad project in the list—something with high cost, low value, 
 
 # Ask about it
 Which initiative should leadership question first?
+
+# Prompt to analyze pictures
+Review the images in this library. Identify the ones containing financial information, project management information, and upcoming events. Summarize what each image tells us.
