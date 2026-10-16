@@ -119,3 +119,7 @@ Which initiative should leadership question first?
 
 # Prompt to analyze pictures
 Review the images in this library. Identify the ones containing financial information, project management information, and upcoming events. Summarize what each image tells us.
+
+# Prompt to create executive summary from list data
+Create an executive summary about the values of AI in our company using the data in this list and save it as a DOCX file in the Documents library.
+
